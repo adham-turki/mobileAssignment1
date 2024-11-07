@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#8BC34A</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="gradient_start">#4CAF50</color>
+    <color name="gradient_end">#8BC34A</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#000000</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="nutrition_background">#1976D2</color>
+    <color name="gradient_background_start">#FF7043</color>
+    <color name="gradient_background_end">#FF9800</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="text_color">#333333</color>
+    <color name="progress_calories">#FF5722</color>
+    <color name="progress_protein">#4CAF50</color>
+    <color name="progress_carbs">#FFC107</color>
+    <color name="progress_fats">#2196F3</color>
+</resources>

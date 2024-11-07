@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sets_array">
+        <item>1 set</item>
+        <item>2 sets</item>
+        <item>3 sets</item>
+        <item>4 sets</item>
+        <item>5 sets</item>
+    </string-array>
+
+    <string-array name="reps_array">
+        <item>5 reps</item>
+        <item>8 reps</item>
+        <item>10 reps</item>
+        <item>12 reps</item>
+        <item>15 reps</item>
+    </string-array>
+</resources>
